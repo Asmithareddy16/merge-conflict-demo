@@ -1,4 +1,2 @@
-\# Student Management System
-
-This project manages student search.
-
+# Student Management System
+This project manages student registration and search.
