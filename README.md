@@ -1,2 +1,4 @@
-# Student Management System
-This project manages student records.
+\# Student Management System
+
+This project manages student registration.
+
